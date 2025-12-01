@@ -11,7 +11,7 @@ Bu proje, kullanıcıların destek talebi oluşturacağı ve ilgili birimlerin, 
 
 ## Teknolojiler
 
-- **Backend:** Spring Boot, Spring Security Spring, Data JPA, H2 Database, Lombok
+- **Backend:** JDK 21, Spring Boot, Spring Security Spring, Data JPA, H2 Database, Lombok
 - **Frontend:** React, Axios, React Router, AntDesign.
 
 - **Araçlar:** Maven, NPM
