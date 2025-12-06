@@ -30,3 +30,8 @@ Bu proje, kullanıcıların destek talebi oluşturacağı ve ilgili birimlerin, 
 	3. Uygulamayı çalıştır `npm run dev`
 4. Uygulamaya geçiş
 	1. Tarayıcıdan http://localhost:5173 adresine girerek uygulamaya erişebilirsin.
+
+## Admin kullanıcı bilgileri
+
+Kullanıcı adı: admin
+Şifre 1234 / 12345
