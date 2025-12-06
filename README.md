@@ -34,4 +34,5 @@ Bu proje, kullanıcıların destek talebi oluşturacağı ve ilgili birimlerin, 
 ## Admin kullanıcı bilgileri
 
 Kullanıcı adı: admin
+
 Şifre 1234 / 12345
